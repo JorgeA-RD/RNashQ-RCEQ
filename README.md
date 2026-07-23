@@ -1,1 +1,1 @@
-# Robust-NashQ-CEQ
+# RNashQ-RCEQ
